@@ -1,0 +1,7 @@
+Go to C Drive 
+Locate Xamp folder and open htdocs
+Create your folder with your SRN
+Place your file inside the folder
+Open Xampp, and run apache
+Go to Browser and type,
+localhost/Foldername/filename
